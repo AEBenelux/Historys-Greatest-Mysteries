@@ -1,10 +1,10 @@
-AETN UK 
+## AETN UK 
 
-“History’s Greatest Mysteries With Laurence Fishburne S2” and The HISTORY® Channel Competition
-Rules and Terms and Conditions 
+### “History’s Greatest Mysteries With Laurence Fishburne S2” and The HISTORY® Channel Competition
+### Rules and Terms and Conditions 
 
 
-COMPETITION RULES
+## COMPETITION RULES
 
 1.	We are promoting “History’s Greatest Mysteries With Laurence Fishburne S2” and The HISTORY® Channel Competition (the Competition).
 2.	There is 1 Prize. The Prize will be a bundle of various prizes including the following:
@@ -28,11 +28,14 @@ III.	Comment on and tag 3 friends on the “History’s Greatest Mysteries With 
 13.	Prize Provider: AETN UK 
 By clicking this box you confirm that you have understood and accept the Rules set out above and the Competition Terms and Conditions.
  
-AETN UK
-“History’s Greatest Mysteries With Laurence Fishburne S2” and The HISTORY® Channel Competition
-Rules and Terms and Conditions 
+## AETN UK
 
-COMPETITION TERMS AND CONDITIONS (UK) 
+### “History’s Greatest Mysteries With Laurence Fishburne S2” and The HISTORY® Channel Competition
+
+### Rules and Terms and Conditions 
+
+## COMPETITION TERMS AND CONDITIONS (UK) 
+
 SUMMARY
 •	By entering the Competition you confirm that you have understood and accept the Rules set out above and these Competition Terms and Conditions.
 • 	This constitutes a legal agreement between us and you.  Please read it carefully.
@@ -159,3 +162,7 @@ In the case of Prizes in the form of tickets, you will be bound by and comply wi
 
 For all queries or the name(s) of the verified winner(s) (which will only be available one month from the draw date) please contact:  AETN UK, Competition Queries, Legal & Business Affairs Department, 1 Queen Caroline Street, London, W6 9YN.
 AETN UK Company Number 03105704
+
+Updated 04/11/2021
+
+v.1.0
